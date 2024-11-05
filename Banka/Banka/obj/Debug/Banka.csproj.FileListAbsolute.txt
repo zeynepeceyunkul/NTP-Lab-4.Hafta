@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\User\source\repos\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\User\source\repos\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\User\source\repos\Banka\Banka\obj\Debug\Banka.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\User\source\repos\Banka\Banka\obj\Debug\Banka.pdb
