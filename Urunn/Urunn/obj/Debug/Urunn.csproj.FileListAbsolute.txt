@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Urunn\Urunn\bin\Debug\Urunn.exe.config
+C:\Users\User\source\repos\Urunn\Urunn\bin\Debug\Urunn.exe
+C:\Users\User\source\repos\Urunn\Urunn\bin\Debug\Urunn.pdb
+C:\Users\User\source\repos\Urunn\Urunn\obj\Debug\Urunn.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Urunn\Urunn\obj\Debug\Urunn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Urunn\Urunn\obj\Debug\Urunn.exe
+C:\Users\User\source\repos\Urunn\Urunn\obj\Debug\Urunn.pdb
