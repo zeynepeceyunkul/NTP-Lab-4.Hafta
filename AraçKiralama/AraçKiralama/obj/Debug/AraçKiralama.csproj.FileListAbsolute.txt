@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.exe.config
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.exe
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.pdb
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.exe
+C:\Users\User\source\repos\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.pdb
